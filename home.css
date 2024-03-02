@@ -7,11 +7,11 @@
     overflow-x: hidden;
 }
 
-.editor {
+.left {
     left: 0;
 }
 
-.compiler {
+.right {
     right: 0;
     background-color: black;
 }
